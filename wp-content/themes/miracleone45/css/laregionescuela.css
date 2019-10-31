@@ -1,0 +1,180 @@
+.laregionhaceescuela{
+
+    width: 90%;
+
+    margin: auto;
+
+    word-wrap: break-word;
+
+    overflow: hidden;
+
+}
+
+
+
+.laregionhaceescuela .titulo-regionescuela{
+
+    background-color: #0C1A1E;
+    text-align: center;
+    color: white;
+    padding: 8px;
+
+}
+
+
+
+.contenido-regionescuela{
+
+    width: 100%;
+
+    height: 100%;
+
+    color: white;
+    background-color: #0C1A1E;
+
+}
+
+
+
+.contenido-regionescuela ul{
+
+    overflow: hidden;
+
+    margin: 0;
+
+    padding: 0;
+
+    width: 100%;
+
+    list-style: none;
+
+    flex-wrap: wrap;
+
+    display: inline-flex;
+
+    margin: auto;
+
+}
+
+
+
+
+
+.contenido-regionescuela ul li{
+
+    width: 24%;
+
+    
+    margin: 4px;
+
+    overflow: hidden;
+
+}
+
+
+
+.contenido-regionescuela ul li img{
+
+    width: 100%;
+
+    
+
+    height: 250px;
+
+}
+
+
+
+.contenido-regionescuela ul li a{
+
+    
+
+    text-decoration: none;
+
+    color:  rgb(255, 251, 251);
+
+}
+
+
+
+.contenido-regionescuela ul li .texto{
+
+    
+
+    width: 90%;
+
+    margin: auto;
+
+}
+
+
+
+@media(max-width:690px){
+
+    .laregionhaceescuela{
+
+        text-align: center;
+
+        width: 100%;
+
+        margin: auto;
+
+        display: inline-block;
+
+        
+
+        
+
+    }
+
+
+
+    .laregionhaceescuela .contenido-regionescuela ul{
+
+        overflow: hidden;
+
+        width: 100%;
+
+        list-style: none;
+
+        box-sizing: border-box;
+
+        flex-wrap: wrap;
+
+        display: inline-block;
+
+        z-index: 20;
+
+        margin: auto;
+
+    }
+
+
+
+    .laregionhaceescuela .contenido-regionescuela ul li{
+
+        width: 90%;
+
+        background-color: white;
+
+        overflow: hidden;
+
+        padding-bottom: 10px;
+
+        border-bottom: 2px solid rgba(0, 0, 0, 0.199) ;
+
+    }
+
+
+
+    .laregionhaceescuela .contenido-regionescuela ul li h2{
+
+        width: 80%;
+
+        margin: auto;
+
+        font-size: 1.2em;
+
+    }
+
+}

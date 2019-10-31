@@ -1,0 +1,35 @@
+.decima-seccion{
+    width: 90%;
+    margin: auto;
+    word-wrap: break-word;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+
+.youtube-channel{
+    margin: auto;
+    text-align: center;
+}
+.youtube-channel ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    flex-wrap: wrap;
+    display: inline-flex;
+    margin: auto;
+}
+.youtube-channel ul li{
+    width: 33.1%;
+    overflow: hidden;
+}
+
+
+@media(max-width:600px){
+    .decima-seccion{
+        display: none;
+    }
+}
+

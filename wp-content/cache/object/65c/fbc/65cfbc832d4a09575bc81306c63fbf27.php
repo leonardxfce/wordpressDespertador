@@ -1,0 +1,26 @@
+L��[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"23460";s:11:"post_author";s:1:"3";s:9:"post_date";s:19:"2018-08-03 18:00:10";s:13:"post_date_gmt";s:19:"2018-08-03 21:00:10";s:12:"post_content";s:4417:"El mes pasado la UCA publicó un informe en el que se destacaba que cerca del 48% de los niños argentinos son pobres y de los cuales un 17% padecen deficiencias alimentarias. En función de esto entrevistamos a dos profesionales vinculados tanto a la infancia como a la alimentación para conocer cómo es la alimentación en el Departamento y qué se recomienda para equilibrar salud y bolsillo.<!--more-->
+
+<strong><img class=" wp-image-23461 alignnone" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/Fotolia_53536789_Subscription_Monthly_XXL-478x270.jpg" alt="" width="627" height="354" /></strong>
+
+<strong>Noemí Villegas</strong> es docente en la escuela primaria 1-069 <strong>José María Gutiérrez de La Bajada.</strong> Esta institución brinda desayuno y almuerzo para los chicos que allí asisten, pero en base a su vinculación con los menores y su realidad, la docente comenta: "si no fuera por la escuela, no todos tendrían asegurada una buena alimentación, comerían, pero no tendrían todos los alimentos que necesitan".
+
+Esto es una problemática seria en épocas de receso escolar, y justamente por ello recientemente buscó colaboración con la <strong>Fundación Monte Santo</strong> para apoyar con mercaderías a doce familias de la zona.
+
+Villegas explica que la situación económica adversa a nivel nacional se refleja en, por ejemplo, la vestimenta de los niños. A menudo ellos concurren al establecimiento con poco abrigo, sin medias y con sus ropas deterioradas.
+
+Si bien esto no ocurre con todas los estudiantes, explica que es usual que algunos niños les pidan llevarse comida a sus hogares "para sus hermanitos", algo a lo que el personal escolar no puede acceder. "Eso está prohibido por la DGE, pero a nosotros nos sirve para darnos cuenta de que evidentemente en la casa se cuenta con esa comida…si tuviera que decir un porcentaje, un 30% de nuestros chicos viven esta situación".
+
+Para abordar la temática desde el punto de vista nutricional, se consultó a <strong>Mercedes Romani,</strong> nutricionista que trabaja en el Área de Deportes del Municipio en el polideportivo, pero que principalmente desarrollando capacitaciones, relevamientos y asesoramiento en múltiples distritos lavallinos.
+
+"Con respecto a la alimentación estamos muy mal, con sobrepeso, obesidad, antes se veía bajo peso en los niños pero ahora obesidad…esto se debe a falta de educación (alimentaria)".
+
+"No quiere decir que si un niño tiene sobrepeso está bien alimentado…es una desnutrición enmascarada…a ese niño le faltan nutrientes". Sobre esto explicó que para ahorrar se apunta mucho a lo frito y a los carbohidratos, algo que según Romani también está pasando en las dietas escolares, que en el último tiempo habrían reducido la fruta y aumentado las harinas.
+
+Sobre cómo la situación económica familiar afecta la alimentación explica: "influye muchísimo…pero también es un tema cultural… hay mucha gente que cena sólo mate con tostadas, pero en el almuerzo tuvieron una gaseosa…también es porque no se sabe comprar" aludiendo a que a veces se paga más tan sólo por la marca del producto sin tener en cuenta la información nutricional, como explica en sus charlas sobre compra inteligente que ha desarrollado en el Departamento.
+
+<strong>Misión posible: comer rico, sano y barato</strong>
+
+La nutricionista afirma que se pueden unir estos tres conceptos. En las charlas en los distritos siempre parte desde los recursos que las familias tienen a su alcance; semanas atrás explicó en el barrio Solares del Norte cómo hacer galletas con avena y banana. Un ejemplo de alimentarse sano, a bajo costo y disfrutando.
+"Hay que enseñarles a utilizar los ingredientes, usando lo que está en la casa, sin necesidad de consumir los productos saludables de los supermercados, hay que volver a las recetas tradicionales" como los dulces caseros y las conservas. También explicó la necesidad de sustituir los azúcares por frutas.
+
+En cuanto a las recomendaciones para los jefes de familia destacó: el desayuno como elemento principal, incorporar por lo menos dos frutas al día, consumir verduras, eliminar las gaseosas, preferir pan a tortitas, mermeladas, evitar los fritos y reducir (sin abandonar) los hidratos de carbono. "Es una alimentación equilibrada, tiene que haber un poco de cada cosa", concluye.";s:10:"post_title";s:43:"¿Se puede comer bien y cuidar el bolsillo?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:40:"se-puede-comer-bien-y-cuidar-el-bolsillo";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-07-31 02:57:33";s:17:"post_modified_gmt";s:19:"2018-07-31 05:57:33";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:41:"http://despertadorlavalle.com.ar/?p=23460";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

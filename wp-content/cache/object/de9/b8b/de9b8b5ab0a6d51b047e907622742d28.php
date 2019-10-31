@@ -1,0 +1,9 @@
+���[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"24317";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2018-10-10 07:30:51";s:13:"post_date_gmt";s:19:"2018-10-10 10:30:51";s:12:"post_content";s:912:"Los trabajadores enrolados en el sindicato de empleados municipales de Lavalle y el ejecutivo municipal acordaron bonos para los trabajadores del departamento.<!--more-->
+
+De esta manera, los empleados del municipio cobrarán un bono de $1000 el 12 octubre y otros $1000 el 15 de noviembre. A eso le seguirá un bono de $2000 entre el 24 y 27 de diciembre. Cabe destacar que los bonos son no remunerativos y no bonificables.
+
+La delicada situación que atraviesan los trabajadores municipales llevó a buscar un nuevo acuerdo entre el gremio y el ejecutivo, reproduciendo lo que han hecho otros municipios de Mendoza.
+
+Esto es adicional a los $400 que se otorgan todos los meses a las categorías a,b,c,d, y e.
+
+Por otra parte, los contratos de locación también cobrarán los aumentos siempre y cuando no superen los $12.000, pero en fechas diferentes a las acordadas para el resto de los trabajadores.";s:10:"post_title";s:67:"Los empleados municipales cobrarán un aumento a partir de este mes";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:66:"los-empleados-municipales-cobraran-un-aumento-a-partir-de-este-mes";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-10-10 07:37:34";s:17:"post_modified_gmt";s:19:"2018-10-10 10:37:34";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:41:"http://despertadorlavalle.com.ar/?p=24317";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

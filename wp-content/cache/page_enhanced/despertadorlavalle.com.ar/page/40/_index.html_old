@@ -1,0 +1,976 @@
+<!doctype html><html
+lang="es"><head><meta
+charset="utf-8"><meta
+name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link
+href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/header.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/footer-distributed-with-contact-form.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/primera-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/palabrerio.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/segunda-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/tercera-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/cuarta-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/quinta-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/sexta-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/septima-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/publicidad-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/octava-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/novena-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/decima-seccion.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/blog.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/seccion-facebook.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/laregionescuela.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/clima.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/single.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/category.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/footer.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/radiocategory.css"><link
+rel="stylesheet" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/css/juego-seccion.css"><link
+href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"><link
+rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link
+rel="shortcut icon" href="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/fav/favicon.ico" ><link
+href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"><title>Periodico El Despertador - Página 40 de 400 - Noticias de Lavalle, Mendoza y el Mundo</title></head><body
+style="overflow: visible; background-color:#EEEEEE;">
+<header><div
+class="seccion1"><ul
+class="footer-social">
+<a
+href="https://www.facebook.com/PeriodicoElDespertador/" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-facebook social-icon facebook" aria-hidden="true"></i></li>
+</a>
+<a
+href="https://twitter.com/Despertadorweb" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-twitter social-icon twitter" aria-hidden="true"></i></li>
+</a>
+<a
+href="https://www.youtube.com/user/eldespertadordigital" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-youtube social-icon youtube" aria-hidden="true"></i></li>
+</a>
+<a
+href="https://plus.google.com/communities/112547996175719254738" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-google-plus social-icon google" aria-hidden="true"></i></li>
+</a></ul></div><div
+class="seccion2">
+<a
+href="http://despertadorlavalle.com.ar/">
+<img
+src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/img/bannernuevo.png" alt="Despertador Online" >
+</a></div><div
+class="seccion3"><div
+class="container-weather">
+<a
+href="http://despertadorlavalle.com.ar/clima/" style="text-decoration:none;"><div
+id="weather"></div></a></div><div
+class="container-fecha"><div
+class="widget-fecha"><div
+class="wrap"><div
+class="fecha"><p
+id="diasemana" class="diasemana"></p><p
+id="dia" class="dia"></p><p>de</p><p
+id="mes" class="mes"></p><p>del</p><p
+id="year" class="year"></p></div></div></div></div></div></header>
+<nav>
+<input
+type="checkbox" id="btn-menu">
+<label
+for="btn-menu">&#9776;</label><ul
+class="menu"><li><a
+href="http://despertadorlavalle.com.ar/category/titulares/" id="titulares">Titulares</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/arteyparte/" id="arte">Arte y Parte</a></li><li><a
+href="#servicios">Servicios</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/laregion/" id="region">La Región</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/laregionhaceescuela/" id="escuela" >Escuela</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/clasificados/">Clasificados</a></li><li><a
+href="#palabrerio" id="palabrerios">Palabreríos</a></li><li><a
+href="#proyectos">Proyectos</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/deportes/" id="deportes">Deportes</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/tecnologia/" id="tecno" >Tecnología</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/deviaje/">De Viaje</a></li><li><a
+href="http://despertadorlavalle.com.ar/category/radio/" id="fm"> FM 89.1</a></li></ul><div
+class="redes-sociales-header"><ul
+class="footer-social">
+<a
+href="https://www.facebook.com/PeriodicoElDespertador/" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-facebook social-icon facebook" id="icon" aria-hidden="true"></i></li>
+</a>
+<a
+href="https://twitter.com/Despertadorweb" target="_blank" title="Haz clic ir a nuestra fan page"><li><i
+class="fa fa-twitter social-icon twitter" id="icon" aria-hidden="true"></i></li>
+</a></ul></div></div>
+</nav><div
+class="contenedor-buscador"><div
+class="search-box"><form
+method="get" id="searchform" action="http://despertadorlavalle.com.ar/">
+<input
+type="text" class="search-txt" name="s" id="s" placeholder="Buscar..." aria-label="Search" ></form></div></div><div
+class="primeraseccion"><div
+class="primera-1"><div
+class="img">
+<img
+width="4032" height="3024" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163.jpg" class=" wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163.jpg 4032w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-400x300.jpg 400w" sizes="(max-width: 4032px) 100vw, 4032px" /></div></div><div
+class="primera-2"><div
+class="contenido-primera-2">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/"  rel="bookmark" title="Continúan los reclamos por Salud en Lavalle"><h1 class="post-24554" >Continúan los reclamos por Salud en Lavalle</h1>
+</a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/ " style="color:#707070; text-align:justify;"><p><p>Vecinas y vecinos de Lavalle le han dado continuidad a los reclamos por más y mejores políticas de salud para el departamento. El epicentro de las demandas sigue siendo el &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/">Ver mas.. </a></p></p></a><div
+class="categoria-author"><ul
+style="display:inline-flex;"><li><h5 id="category" style="color:rgb(28, 95, 184);"> Radio</h5><h5 id="category" style="color:rgb(28, 95, 184);"> Titulos</h5></li><li><h5> <small> &nbsp;  |  Por </small>El Despertador</h5></li><li><h5> <small>  &nbsp;  Hace  </small> 13 horas</h5></li></ul></div><div
+class="sociales" style="font-size:1.5em;text-align:center; margin:auto; width:100%;">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></div></div><div
+class="segundaseccion"><div
+class="segunda-1"><h2>Mas Noticias</h2></div><div
+class="segunda-2"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/cuestionan-el-veto-municipal-de-la-ordenanza-que-prohibe-la-pirotecnia-en-lavalle/"><img
+width="945" height="532" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/image5a401ebbb30ed.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/image5a401ebbb30ed.jpg 945w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/image5a401ebbb30ed-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/image5a401ebbb30ed-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/image5a401ebbb30ed-500x281.jpg 500w" sizes="(max-width: 945px) 100vw, 945px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/cuestionan-el-veto-municipal-de-la-ordenanza-que-prohibe-la-pirotecnia-en-lavalle/"><h2 class="post-24541" >Cuestionan el veto municipal de la ordenanza que prohíbe la pirotecnia en Lavalle</h2></a><p><p>Entramos en noviembre y poco a poco empieza a respirarse ese entusiasmo -que quizás sirve como distractor de la realidad nacional- de navidad y año nuevo. Para algunos, estas fechas &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/07/cuestionan-el-veto-municipal-de-la-ordenanza-que-prohibe-la-pirotecnia-en-lavalle/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/07/cuestionan-el-veto-municipal-de-la-ordenanza-que-prohibe-la-pirotecnia-en-lavalle/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/07/cuestionan-el-veto-municipal-de-la-ordenanza-que-prohibe-la-pirotecnia-en-lavalle/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/06/la-asamblea-por-el-agua-le-pide-a-los-concejales-una-ordenanza-contra-el-fracking/"><img
+width="1123" height="794" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking.jpg 1123w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking-450x318.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking-768x543.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking-1024x724.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/Lavalle-Fracking-424x300.jpg 424w" sizes="(max-width: 1123px) 100vw, 1123px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/06/la-asamblea-por-el-agua-le-pide-a-los-concejales-una-ordenanza-contra-el-fracking/"><h2 class="post-24539" >La Asamblea por el agua le pide a los concejales una ordenanza contra el fracking</h2></a><p><p>En el marco de las acciones que los/as vecinos/as autoconvocados/as vienen realizando desde la Asamblea por el Agua Pura de Huanacache, este pasado 30 de octubre se hicieron presentes en &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/06/la-asamblea-por-el-agua-le-pide-a-los-concejales-una-ordenanza-contra-el-fracking/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/06/la-asamblea-por-el-agua-le-pide-a-los-concejales-una-ordenanza-contra-el-fracking/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/06/la-asamblea-por-el-agua-le-pide-a-los-concejales-una-ordenanza-contra-el-fracking/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/05/mil-firmas-para-seguir-viviendo/"><img
+width="4032" height="3024" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055.jpg 4032w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA086055-400x300.jpg 400w" sizes="(max-width: 4032px) 100vw, 4032px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/05/mil-firmas-para-seguir-viviendo/"><h2 class="post-24524" >Mil firmas para seguir viviendo</h2></a><p><p>Los vecinos de Lavalle entregarán un petitorio al ministerio planteando el drama de la salud que aqueja al departamento. A tal fin, el escrito, elaborado durante los sucesos que se &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/05/mil-firmas-para-seguir-viviendo/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/05/mil-firmas-para-seguir-viviendo/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/05/mil-firmas-para-seguir-viviendo/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/ypf-aumento-sus-combustibles/"><img
+width="1020" height="560" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/ypf-23.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/ypf-23.jpg 1020w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/ypf-23-450x247.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/ypf-23-768x422.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/ypf-23-500x275.jpg 500w" sizes="(max-width: 1020px) 100vw, 1020px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/ypf-aumento-sus-combustibles/"><h2 class="post-24512" >YPF aumentó sus combustibles</h2></a><p><p>La empresa estatal reajustó sus precios, siguiendo a Axion. Con éste,  ya hay 14 incrementos de precios en lo que va del año. YPF ejecutó el esperado aumento en los &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/04/ypf-aumento-sus-combustibles/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/ypf-aumento-sus-combustibles/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/ypf-aumento-sus-combustibles/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/31/caso-johana-son-restos-humanos-los-encontrados-en-el-2012-pero-no-pueden-analizarse-geneticamente/"><img
+width="4032" height="3024" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1.jpg 4032w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/PA025906-1-400x300.jpg 400w" sizes="(max-width: 4032px) 100vw, 4032px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/31/caso-johana-son-restos-humanos-los-encontrados-en-el-2012-pero-no-pueden-analizarse-geneticamente/"><h2 class="post-24493" >Caso Johana: son restos humanos los encontrados en el 2012, pero no pueden analizarse genéticamente</h2></a><p><p>Profesionales del Instituto de Arqueología y Etnología de la Facultad de Filosofía de la Universidad Nacional de Cuyo  determinaron que los restos secuestrados en 2012 de la finca donde vivía &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/10/31/caso-johana-son-restos-humanos-los-encontrados-en-el-2012-pero-no-pueden-analizarse-geneticamente/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/31/caso-johana-son-restos-humanos-los-encontrados-en-el-2012-pero-no-pueden-analizarse-geneticamente/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/31/caso-johana-son-restos-humanos-los-encontrados-en-el-2012-pero-no-pueden-analizarse-geneticamente/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/31/proponen-la-construccion-colectiva-de-un-sistema-de-salud-para-lavalle/"><img
+width="1200" height="480" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud.jpg 1200w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud-450x180.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud-768x307.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud-1024x410.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/sistema-de-salud-500x200.jpg 500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/31/proponen-la-construccion-colectiva-de-un-sistema-de-salud-para-lavalle/"><h2 class="post-24468" >Proponen la construcción colectiva de un sistema de salud para Lavalle</h2></a><p><p>En el marco de la reunión mensual de octubre, el foro interinstitucional Huanacache a raíz del fallecimiento de la docente Miriam Azzolina, debatió sobre las posibles acciones para gestionar un &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/10/31/proponen-la-construccion-colectiva-de-un-sistema-de-salud-para-lavalle/">Ver mas.. </a></p></p><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/31/proponen-la-construccion-colectiva-de-un-sistema-de-salud-para-lavalle/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/31/proponen-la-construccion-colectiva-de-un-sistema-de-salud-para-lavalle/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li></ul><div
+id="adsingle"><div><img
+src="http://despertadorlavalle.com.ar/subidas/.webp" alt=""></div><div><a
+href="no" target="_blank"><img
+src="http://despertadorlavalle.com.ar/subidas/merce.jpg.jpg" alt="flamenco"></a></div><div><a
+href="http://www.sute.com.ar/" target="_blank"><img
+src="https://image.ibb.co/ks96CS/SUTE_gif.gif" alt="sute"></a></div></div></div></div><div
+class="publicidad-grande" ><div
+class="publicidad-titulo" style="width:100%;"><h2>Publicidad</h2></div><div
+class="publicidad-contenido" ><ul><li><a
+href="https://www.triunfoseguros.com" target="_blank"><img
+src="https://preview.ibb.co/cUD9Zz/el_despertador_monta_a.jpg" alt="umaza"></a></li><li><a
+href="https://www.triunfoseguros.co/" target="_blank"><img
+src="https://preview.ibb.co/hYH8SK/el_despertador_urbano.jpg" alt="Triunfo Seguros"></a></li><li><a
+href="https://www.facebook.com/la.pujante.3" target="_blank"><img
+src="https://preview.ibb.co/eVuK1e/cuyana.jpg" alt="pujante"></a></li></ul></div></div><div
+class="terceraseccion"><div
+class="tercera-1"><h2>Arte y Parte</h2></div><div
+class="tercera-2"><ul><li><div
+class="img-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/primer-festival-de-folklore-cuyano/"><img
+width="756" height="515" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/festival-cuyano.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/festival-cuyano.jpg 756w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/festival-cuyano-450x307.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/festival-cuyano-440x300.jpg 440w" sizes="(max-width: 756px) 100vw, 756px" /></a></div><div
+class="titulo-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/primer-festival-de-folklore-cuyano/" rel="bookmark" title="Por siempre Cuyo: El Primer festival de folklore cuyano que tiene continuidad en Lavalle"><h2  class="post-24529">Por siempre Cuyo: El Primer festival de folklore cuyano que tiene continuidad en Lavalle</h2></a></div><p><p>El sábado 10 de noviembre se realizará el primer festival de folklore cuyano, POR SIEMPRE CUYO, en el Parque Nativo, desde las 22hs. Una iniciativa de tres municipios, Lavalle, Caucete &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/07/primer-festival-de-folklore-cuyano/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;" id="author-tercera">Por: <span
+style="color:white; font-size:16px;">El Despertador</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/07/primer-festival-de-folklore-cuyano/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/07/primer-festival-de-folklore-cuyano/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li><div
+class="img-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/nuestros-jovenes-van-a-mostrar-lo-que-aprendieron-en-los-talleres-artisticos/"></a></div><div
+class="titulo-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/nuestros-jovenes-van-a-mostrar-lo-que-aprendieron-en-los-talleres-artisticos/" rel="bookmark" title="Nuestros jóvenes van a mostrar lo que aprendieron en los talleres artísticos"><h2  class="post-24527">Nuestros jóvenes van a mostrar lo que aprendieron en los talleres artísticos</h2></a></div><p><p>Una gran cantidad de jóvenes que integran los talleres artísticos municipales, mostraran lo que han aprendido durante este ciclo 2018.</p></p>
+<small
+style="color:white !important;" id="author-tercera">Por: <span
+style="color:white; font-size:16px;">El Despertador</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/07/nuestros-jovenes-van-a-mostrar-lo-que-aprendieron-en-los-talleres-artisticos/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/07/nuestros-jovenes-van-a-mostrar-lo-que-aprendieron-en-los-talleres-artisticos/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li><div
+class="img-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/llega-a-lavalle-la-merce-baile-flamenco/"><img
+width="1267" height="1266" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela.jpg 1267w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela-175x175.jpg 175w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela-450x450.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela-768x767.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela-1024x1024.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/marcela-300x300.jpg 300w" sizes="(max-width: 1267px) 100vw, 1267px" /></a></div><div
+class="titulo-tercera">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/llega-a-lavalle-la-merce-baile-flamenco/" rel="bookmark" title="Llega a Lavalle, la Merce, baile flamenco"><h2  class="post-24505">Llega a Lavalle, la Merce, baile flamenco</h2></a></div><p><p>Marcela Delli Boby es la La Merce. Pero quién es Marcela? Es nada más ni nada menos, que una gran cantante y bailarina de flamenco. Fue finalista de cantando por &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/04/llega-a-lavalle-la-merce-baile-flamenco/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;" id="author-tercera">Por: <span
+style="color:white; font-size:16px;">El Despertador</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/llega-a-lavalle-la-merce-baile-flamenco/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/llega-a-lavalle-la-merce-baile-flamenco/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li></ul><div
+class="propaganda1"><div><a
+href="Jorge sosa en el baquiano" target="_blank"><img
+src="https://image.ibb.co/htP8SK/38246139_273974223191226_2775218926768881664_n.jpg" alt="Museo Historico"></a></div></div></div></div><div
+class="cuartaseccion"><div
+class="cuarta-1"><h2>Tierra Campesina - FM 89.1</h2></div><div
+class="cuarta-2"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/"><img
+width="4032" height="3024" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163.jpg 4032w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/PA246163-400x300.jpg 400w" sizes="(max-width: 4032px) 100vw, 4032px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/" rel="bookmark" title="Continúan los reclamos por Salud en Lavalle"><h2  class="post-24554">Continúan los reclamos por Salud en Lavalle</h2></a><p><p>Vecinas y vecinos de Lavalle le han dado continuidad a los reclamos por más y mejores políticas de salud para el departamento. El epicentro de las demandas sigue siendo el &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;">Por: <span
+style="color:white; font-size:16px;">El Despertador</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/07/continuan-los-reclamos-por-salud-en-lavalle/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/28/en-lavalle-se-debatio-sobre-educacion-sexual-integral-e-interrupcion-legal-del-embarazo/"><img
+width="1280" height="960" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1.jpeg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1-450x338.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1-768x576.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1-1024x768.jpeg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/esi-ile-1-400x300.jpeg 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/28/en-lavalle-se-debatio-sobre-educacion-sexual-integral-e-interrupcion-legal-del-embarazo/" rel="bookmark" title="En Lavalle se debatió sobre Educación Sexual Integral e Interrupción Legal del Embarazo"><h2  class="post-24449">En Lavalle se debatió sobre Educación Sexual Integral e Interrupción Legal del Embarazo</h2></a><p><p>El pasado sábado la Red por el Derecho a Decidir de Lavalle organizó una charla donde abordaron las temáticas de Educación Sexual Integral (ESI) y la Interrupción Legal del Embarazo &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/10/28/en-lavalle-se-debatio-sobre-educacion-sexual-integral-e-interrupcion-legal-del-embarazo/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;">Por: <span
+style="color:white; font-size:16px;">Radio Tierra Campesina</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/28/en-lavalle-se-debatio-sobre-educacion-sexual-integral-e-interrupcion-legal-del-embarazo/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/28/en-lavalle-se-debatio-sobre-educacion-sexual-integral-e-interrupcion-legal-del-embarazo/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/26/lavalle-otro-caso-donde-la-ambulancia-no-llego-a-tiempo/"><img
+width="1123" height="794" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto.jpg 1123w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto-450x318.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto-768x543.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto-1024x724.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/accidente-moto-424x300.jpg 424w" sizes="(max-width: 1123px) 100vw, 1123px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/26/lavalle-otro-caso-donde-la-ambulancia-no-llego-a-tiempo/" rel="bookmark" title="Lavalle: otro caso donde la ambulancia no llegó a tiempo"><h2  class="post-24434">Lavalle: otro caso donde la ambulancia no llegó a tiempo</h2></a><p><p>Este miércoles al mediodía José Valdés, vecino de El Paramillo, regresaba a su casa en su moto cuando fue atropellado por un tractor que transitaba por calle La Holanda. Volvía &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/10/26/lavalle-otro-caso-donde-la-ambulancia-no-llego-a-tiempo/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;">Por: <span
+style="color:white; font-size:16px;">Radio Tierra Campesina</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/26/lavalle-otro-caso-donde-la-ambulancia-no-llego-a-tiempo/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/26/lavalle-otro-caso-donde-la-ambulancia-no-llego-a-tiempo/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/26/autoridades-lavallinas-pidieron-informe-al-gobierno-provincial-por-la-muerte-de-la-maestra/"><img
+width="960" height="720" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/pedido-informe.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/pedido-informe.jpg 960w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/pedido-informe-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/pedido-informe-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/pedido-informe-400x300.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/26/autoridades-lavallinas-pidieron-informe-al-gobierno-provincial-por-la-muerte-de-la-maestra/" rel="bookmark" title="Autoridades lavallinas pidieron informe al gobierno provincial por la muerte de la maestra"><h2  class="post-24428">Autoridades lavallinas pidieron informe al gobierno provincial por la muerte de la maestra</h2></a><p><p>Un grupo de funcionarixs y referentes lavallinxs realizaron ayer, jueves, una presentación en la Legislatura provincial para que el Ministerio de Salud investigue e informe sobre lo ocurrido con la &hellip; <a
+href="http://despertadorlavalle.com.ar/2018/10/26/autoridades-lavallinas-pidieron-informe-al-gobierno-provincial-por-la-muerte-de-la-maestra/">Ver mas.. </a></p></p>
+<small
+style="color:white !important;">Por: <span
+style="color:white; font-size:16px;">El Despertador</span></small><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/26/autoridades-lavallinas-pidieron-informe-al-gobierno-provincial-por-la-muerte-de-la-maestra/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/26/autoridades-lavallinas-pidieron-informe-al-gobierno-provincial-por-la-muerte-de-la-maestra/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li></ul></div></div>
+<br><div
+class="publicidad-titulo"><h2>Publicidad</h2></div> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins
+class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7650734446017232"
+data-ad-slot="1919626491"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> <div
+class="quintaseccion"><div
+class="medio"><div
+class="quinta1"><div
+class="quinta1-2"><h2>Servicios</h2></div><div
+class="quinta1-3"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/"><img
+width="2560" height="1440" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1.jpg 2560w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-1024x576.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-500x281.jpg 500w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/" rel="bookmark" title="MuVi &#8211; Música y Video"><h2  class="post-23536">MuVi &#8211; Música y Video</h2></a></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/farmaceuticos/"><img
+width="115" height="122" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/farmacias_turno_1.jpg" class="img-fluid wp-post-image" alt="" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/farmaceuticos/" rel="bookmark" title="Farmaceuticos"><h2  class="post-23490">Farmaceuticos</h2></a></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/telefonos/"><img
+width="200" height="203" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/telefono_logo.png" class="img-fluid wp-post-image" alt="" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/telefonos/" rel="bookmark" title="Telefonos"><h2  class="post-23483">Telefonos</h2></a></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2017/07/13/horarios-lavalle-creado/"><img
+width="300" height="300" src="http://despertadorlavalle.com.ar/wp-content/uploads/2017/07/unnamed.jpg" class="img-fluid wp-post-image" alt="logo horarios lavalle" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2017/07/unnamed.jpg 300w, http://despertadorlavalle.com.ar/wp-content/uploads/2017/07/unnamed-175x175.jpg 175w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2017/07/13/horarios-lavalle-creado/" rel="bookmark" title="Horarios Lavalle: Su Creador"><h2  class="post-19726">Horarios Lavalle: Su Creador</h2></a></li></ul></div></div><div
+class="quinta2"><div
+class="quinta2-1"><h2>Redes Sociales</h2></div><div
+class="flex"><div
+class="quinta2-2"><div
+id="fb-root"></div><div
+class="fb-page" data-href="https://www.facebook.com/PeriodicoElDespertador/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote
+cite="https://www.facebook.com/PeriodicoElDespertador/" class="fb-xfbml-parse-ignore"><a
+href="https://www.facebook.com/PeriodicoElDespertador/">Periódico El Despertador</a></blockquote></div> <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.0&appId=173602370082253&autoLogAppEvents=1';
+                fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script> </div><div
+class="quinta2-3">
+<a
+class="twitter-timeline" data-lang="es" data-width="300" data-height="520" data-link-color="#19CF86" href="https://twitter.com/PDespertador?ref_src=twsrc%5Etfw">Tweets by PDespertador</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></div></div></div></div><div
+class="sextaseccion"><div
+class="sexta-1"><h2>La Región</h2></div><div
+class="septima1-2"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/06/tres-de-mayo-y-jocoli-participaron-de-las-ultimas-instancias-de-presupuesto-participativo-2018/"><img
+width="1024" height="768" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/jocoli-y-tres-d-emayo.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/jocoli-y-tres-d-emayo.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/jocoli-y-tres-d-emayo-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/jocoli-y-tres-d-emayo-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/jocoli-y-tres-d-emayo-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/06/tres-de-mayo-y-jocoli-participaron-de-las-ultimas-instancias-de-presupuesto-participativo-2018/" rel="bookmark" title="Tres de Mayo y Jocolí participaron de las últimas instancias de presupuesto participativo 2018"><h2  class="post-24531">Tres de Mayo y Jocolí participaron de las últimas instancias de presupuesto participativo 2018</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/06/tres-de-mayo-y-jocoli-participaron-de-las-ultimas-instancias-de-presupuesto-participativo-2018/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/06/tres-de-mayo-y-jocoli-participaron-de-las-ultimas-instancias-de-presupuesto-participativo-2018/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/por-primera-vez-en-el-pais-reconocieron-a-dos-personas-de-mendoza-con-sexo-indefinido/"><img
+width="837" height="471" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/geronimo-o-carolina.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/geronimo-o-carolina.jpg 837w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/geronimo-o-carolina-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/geronimo-o-carolina-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/geronimo-o-carolina-500x281.jpg 500w" sizes="(max-width: 837px) 100vw, 837px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/por-primera-vez-en-el-pais-reconocieron-a-dos-personas-de-mendoza-con-sexo-indefinido/" rel="bookmark" title="Por primera vez en el país, reconocieron a dos personas de Mendoza con sexo indefinido"><h2  class="post-24519">Por primera vez en el país, reconocieron a dos personas de Mendoza con sexo indefinido</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/por-primera-vez-en-el-pais-reconocieron-a-dos-personas-de-mendoza-con-sexo-indefinido/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/por-primera-vez-en-el-pais-reconocieron-a-dos-personas-de-mendoza-con-sexo-indefinido/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/piden-la-inconstitucionalidad-del-codigo-de-faltas/"><img
+width="625" height="348" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/faltas.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/faltas.jpg 625w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/faltas-450x251.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/faltas-500x278.jpg 500w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/piden-la-inconstitucionalidad-del-codigo-de-faltas/" rel="bookmark" title="Piden la inconstitucionalidad del Código de Faltas"><h2  class="post-24516">Piden la inconstitucionalidad del Código de Faltas</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/piden-la-inconstitucionalidad-del-codigo-de-faltas/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/piden-la-inconstitucionalidad-del-codigo-de-faltas/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/fernandez-sagasti-inauguro-un-ciclo-de-conferencias-sobre-los-desafios-de-mendoza-para-el-futuro/"><img
+width="1200" height="600" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel.jpg 1200w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel-450x225.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel-768x384.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel-1024x512.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/anabel-500x250.jpg 500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/fernandez-sagasti-inauguro-un-ciclo-de-conferencias-sobre-los-desafios-de-mendoza-para-el-futuro/" rel="bookmark" title="Fernández Sagasti inauguró un ciclo de conferencias sobre los desafíos de Mendoza para el futuro"><h2  class="post-24509">Fernández Sagasti inauguró un ciclo de conferencias sobre los desafíos de Mendoza para el futuro</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/fernandez-sagasti-inauguro-un-ciclo-de-conferencias-sobre-los-desafios-de-mendoza-para-el-futuro/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/fernandez-sagasti-inauguro-un-ciclo-de-conferencias-sobre-los-desafios-de-mendoza-para-el-futuro/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/01/luminarias-para-jocoli-viejo/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/01/luminarias-para-jocoli-viejo/" rel="bookmark" title="Luminarias para Jocolí viejo"><h2  class="post-24479">Luminarias para Jocolí viejo</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/01/luminarias-para-jocoli-viejo/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/01/luminarias-para-jocoli-viejo/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/01/24474/"><img
+width="6000" height="4000" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/presu-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/presu-1.jpg 6000w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/presu-1-450x300.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/presu-1-768x512.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/presu-1-1024x683.jpg 1024w" sizes="(max-width: 6000px) 100vw, 6000px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/01/24474/" rel="bookmark" title="Lavalle cumple con el presupuesto participativo 2017"><h2  class="post-24474">Lavalle cumple con el presupuesto participativo 2017</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/01/24474/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/01/24474/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li></ul></div></div>
+<br><div
+class="publicidad-titulo"><h2>Publicidad</h2></div> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins
+class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7650734446017232"
+data-ad-slot="1919626491"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> <div
+class="septimaseccion"><div
+class="septima-1"><h2>Deportes</h2></div><div
+class="septima1-2"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/tenis-de-mesa-en-la-posta-sanmartiniana/"><img
+width="1280" height="720" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03.jpeg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03-450x253.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03-768x432.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03-1024x576.jpeg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-22-at-10.24.03-500x281.jpeg 500w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/tenis-de-mesa-en-la-posta-sanmartiniana/" rel="bookmark" title="Tenis de Mesa en la Posta Sanmartiniana"><h2  class="post-23832">Tenis de Mesa en la Posta Sanmartiniana</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/08/22/tenis-de-mesa-en-la-posta-sanmartiniana/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/08/22/tenis-de-mesa-en-la-posta-sanmartiniana/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/02/lanzan-los-juegos-sanmartinianos-2018/"><img
+width="790" height="593" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-24-at-09.00.23.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-24-at-09.00.23.jpeg 790w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-24-at-09.00.23-450x338.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-24-at-09.00.23-768x576.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/WhatsApp-Image-2018-07-24-at-09.00.23-400x300.jpeg 400w" sizes="(max-width: 790px) 100vw, 790px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/02/lanzan-los-juegos-sanmartinianos-2018/" rel="bookmark" title="Lanzan los Juegos sanmartinianos 2018"><h2  class="post-23430">Lanzan los Juegos sanmartinianos 2018</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/08/02/lanzan-los-juegos-sanmartinianos-2018/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/08/02/lanzan-los-juegos-sanmartinianos-2018/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/07/22/el-torneo-ni-una-menos-hoy-en-el-poli-de-lavalle/"><img
+width="640" height="480" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/32681105_1767195303345074_1410780526331035648_n.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/32681105_1767195303345074_1410780526331035648_n.jpg 640w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/32681105_1767195303345074_1410780526331035648_n-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/32681105_1767195303345074_1410780526331035648_n-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/07/22/el-torneo-ni-una-menos-hoy-en-el-poli-de-lavalle/" rel="bookmark" title="El torneo Ni una Menos, hoy en el poli de Lavalle"><h2  class="post-23357">El torneo Ni una Menos, hoy en el poli de Lavalle</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/07/22/el-torneo-ni-una-menos-hoy-en-el-poli-de-lavalle/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/07/22/el-torneo-ni-una-menos-hoy-en-el-poli-de-lavalle/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/07/18/un-encuentro-increible-durante-3-dias/"><img
+width="4121" height="2847" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton.jpg 4121w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton-450x311.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton-768x531.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton-1024x707.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/07/badminton-434x300.jpg 434w" sizes="(max-width: 4121px) 100vw, 4121px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/07/18/un-encuentro-increible-durante-3-dias/" rel="bookmark" title="Un encuentro increíble durante 3 días"><h2  class="post-23310">Un encuentro increíble durante 3 días</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/07/18/un-encuentro-increible-durante-3-dias/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/07/18/un-encuentro-increible-durante-3-dias/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/06/18/el-voley-sigue-dando-la-nota/"><img
+width="571" height="480" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/35492592_1799532510111353_8519521974731407360_n-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/35492592_1799532510111353_8519521974731407360_n-1.jpg 571w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/35492592_1799532510111353_8519521974731407360_n-1-450x378.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/35492592_1799532510111353_8519521974731407360_n-1-357x300.jpg 357w" sizes="(max-width: 571px) 100vw, 571px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/06/18/el-voley-sigue-dando-la-nota/" rel="bookmark" title="El Vóley sigue dando la nota"><h2  class="post-23056">El Vóley sigue dando la nota</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/06/18/el-voley-sigue-dando-la-nota/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/06/18/el-voley-sigue-dando-la-nota/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/05/24/el-cicles-club-lavalle-en-un-momento-clave/"><img
+width="945" height="756" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/cicles.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/cicles.jpeg 945w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/cicles-450x360.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/cicles-768x614.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/cicles-375x300.jpeg 375w" sizes="(max-width: 945px) 100vw, 945px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/05/24/el-cicles-club-lavalle-en-un-momento-clave/" rel="bookmark" title="El Cicles Club Lavalle en un momento clave"><h2  class="post-22595">El Cicles Club Lavalle en un momento clave</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/05/24/el-cicles-club-lavalle-en-un-momento-clave/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/05/24/el-cicles-club-lavalle-en-un-momento-clave/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></li></ul></div></div><div
+class="palabrerio"><div
+class="titulo-palabrerios" ><h1>Palabreríos</h1></div><div
+class="contenido-palabrerio"><ul><li>
+<img
+src="https://image.ibb.co/du48Lc/JUAN.jpg" alt="Juan">
+&nbsp;  &nbsp;<h1>Juan Burba</h1>
+<a
+href="http://despertadorlavalle.com.ar/2018/09/11/agua-y-arboles-malestar-en-la-pega/"><h3>Agua y árboles: malestar en La Pega</h3></a></li><li>
+<img
+src="https://image.ibb.co/gqWkJm/franco.jpg" alt="Franco">
+&nbsp;  &nbsp;<h1>GianFranco Ricciardi</h1>
+<a
+href="http://despertadorlavalle.com.ar/2018/04/18/pablo-lujan-luchador-las-causas-sonadas/"><h1>Pablo Luján: un luchador de las causas soñadas</h1></a></li><li>
+<img
+src="https://image.ibb.co/hMUfT7/unnamed.jpg" alt="">
+&nbsp;  &nbsp;<h1>Natalia Tomelin</h1>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/03/como-subir-el-animo-en-medio-de-una-crisis-o-mala-situacion-economica/"><h1>¿Cómo subir el ánimo en medio de una crisis o mala situación económica?</h1></a></li><li>
+<img
+src="https://image.ibb.co/fiUTmH/fra.jpg" alt="Franco D'Amelio">
+&nbsp;  &nbsp;<h1>Franco D'Amelio</h1>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/03/se-puede-comer-bien-y-cuidar-el-bolsillo/"><h1>¿Se puede comer bien y cuidar el bolsillo?</h1></a></li></ul></div></div></div>
+<br><div
+class="publicidad-titulo"><h2>Publicidad</h2></div> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins
+class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-7650734446017232"
+data-ad-slot="1919626491"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> <div
+class="octavaseccion"><div
+class="octava-1"><h2>Nuestros Proyectos Digitales</h2></div><div
+class="secciones-octava"><ul><li><div
+class="seccion-1"><div
+class="titulo"><h2>Tierra Dentro</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/10/23/exigiran-registro-para-transportar-hortalizas/"><img
+width="640" height="360" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/transporte-hortalizas.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/transporte-hortalizas.jpg 640w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/transporte-hortalizas-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/transporte-hortalizas-500x281.jpg 500w" sizes="(max-width: 640px) 100vw, 640px" /></a></div></div></div></li><li><div
+class="seccion-2"><div
+class="titulo"><h2>Alegorías</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/01/31/empece-pintar-sanar-alma-alejandra-argentini/"><img
+width="478" height="481" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/01/alejandra-argentini-2.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/01/alejandra-argentini-2.jpg 478w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/01/alejandra-argentini-2-175x175.jpg 175w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/01/alejandra-argentini-2-450x453.jpg 450w" sizes="(max-width: 478px) 100vw, 478px" /></a></div></div></div></li><li><div
+class="seccion-3"><div
+class="titulo"><h2>Negocios y Profesiones</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/29/farmacia-tres-de-mayo/"><img
+width="1280" height="960" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia.jpg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/IMG-20180602-WA0002-1-copia-400x300.jpg 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></div></div></div></div></li></ul></div></div><div
+class="laregionhaceescuela"><div
+class="titulo-regionescuela"><h2>La región hace escuela</h2></div><div
+class="contenido-regionescuela"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/22/lavalle-es-peronista/"><img
+width="1100" height="500" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle.jpg 1100w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle-450x205.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle-768x349.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle-1024x465.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/galo-lavalle-500x227.jpg 500w" sizes="(max-width: 1100px) 100vw, 1100px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/10/22/lavalle-es-peronista/" rel="bookmark" title="¿Lavalle es peronista?"><h2  class="post-24390">¿Lavalle es peronista?</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/22/lavalle-es-peronista/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/22/lavalle-es-peronista/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/20/estudiante-secundario-de-arroyito-representara-a-lavalle-en-el-parlamento-juvenil-del-mercosur/"><img
+width="1280" height="722" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito.jpeg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-450x254.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-768x433.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-1024x578.jpeg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-500x282.jpeg 500w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/10/20/estudiante-secundario-de-arroyito-representara-a-lavalle-en-el-parlamento-juvenil-del-mercosur/" rel="bookmark" title="Estudiante secundario de Arroyito representará a Lavalle en el Parlamento Juvenil del Mercosur"><h2  class="post-24380">Estudiante secundario de Arroyito representará a Lavalle en el Parlamento Juvenil del Mercosur</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/20/estudiante-secundario-de-arroyito-representara-a-lavalle-en-el-parlamento-juvenil-del-mercosur/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/20/estudiante-secundario-de-arroyito-representara-a-lavalle-en-el-parlamento-juvenil-del-mercosur/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/04/lavalle-la-primaria-de-arroyito-en-la-feria-de-ciencias-provincial/"><img
+width="1280" height="960" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias.jpg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias-450x338.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias-768x576.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias-1024x768.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/arroyito-feria-ciencias-400x300.jpg 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/10/04/lavalle-la-primaria-de-arroyito-en-la-feria-de-ciencias-provincial/" rel="bookmark" title="Lavalle: la primaria de Arroyito en la Feria de Ciencias provincial"><h2  class="post-24291">Lavalle: la primaria de Arroyito en la Feria de Ciencias provincial</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/04/lavalle-la-primaria-de-arroyito-en-la-feria-de-ciencias-provincial/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/04/lavalle-la-primaria-de-arroyito-en-la-feria-de-ciencias-provincial/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/10/04/san-miguel-de-huertas-maratones-y-mejoras-edilicias/"><img
+width="1280" height="960" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5.jpeg 1280w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5-450x338.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5-768x576.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5-1024x768.jpeg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/10/san-miguel-5-400x300.jpeg 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/10/04/san-miguel-de-huertas-maratones-y-mejoras-edilicias/" rel="bookmark" title="San Miguel: de huertas, maratones y mejoras edilicias"><h2  class="post-24270">San Miguel: de huertas, maratones y mejoras edilicias</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/10/04/san-miguel-de-huertas-maratones-y-mejoras-edilicias/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/10/04/san-miguel-de-huertas-maratones-y-mejoras-edilicias/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li></ul></div></div><div
+class="novena-seccion"><div
+class="titulo-novena"><h2>Clasificados</h2></div><div
+class="secciones-novena"><ul><li><div
+class="seccion-1"><div
+class="titulo"><h2>Articulos</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/pernil-a-pedido-empanadas-y-pollo-por-encargue-tel-4941352-2616598229-b-toum-frente-plazoleta/"><img
+width="450" height="317" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/01p.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/01p.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/01p-426x300.jpg 426w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/pernil-a-pedido-empanadas-y-pollo-por-encargue-tel-4941352-2616598229-b-toum-frente-plazoleta/" rel="bookmark" title="PERNIL A PEDIDO, empanadas y pollo por encargue. Tel: 4941352- 2616598229 B° Toum, frente plazoleta"><h3  class="post-23853">PERNIL A PEDIDO, empanadas y pollo por encargue. Tel: 4941352- 2616598229 B° Toum, frente plazoleta</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/vendo-pasto-tel-153474656/"><img
+width="251" height="201" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/images-1.jpg" class="img-fluid wp-post-image" alt="" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/vendo-pasto-tel-153474656/" rel="bookmark" title="VENDO  Pasto Tel.: 153474656"><h3  class="post-23850">VENDO  Pasto Tel.: 153474656</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/18/carne-a-la-olla-empanadas-ensalada-postre-180/"><img
+width="3000" height="2128" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1.jpg 3000w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1-450x319.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1-768x545.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1-1024x726.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1-423x300.jpg 423w" sizes="(max-width: 3000px) 100vw, 3000px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/18/carne-a-la-olla-empanadas-ensalada-postre-180/" rel="bookmark" title="CARNE A LA OLLA + EMPANADAS + ENSALADA + POSTRE 180$"><h3  class="post-23771">CARNE A LA OLLA + EMPANADAS + ENSALADA + POSTRE 180$</h3></a><hr></div></div></div></li><li><div
+class="seccion-2"><div
+class="titulo"><h2>Automotores</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-5/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-5/" rel="bookmark" title="VENDO Ford Sierra, mod 86 con GNC $18.000 Tel.: 2614536558"><h3  class="post-23676">VENDO Ford Sierra, mod 86 con GNC $18.000 Tel.: 2614536558</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-4/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-4/" rel="bookmark" title="VENDO Ford Ranger mod. 2001 Diesel ful. Motor Power Stoquer 2.8 con turbo. $190.000 Tel.: 2614536558"><h3  class="post-23674">VENDO Ford Ranger mod. 2001 Diesel ful. Motor Power Stoquer 2.8 con turbo. $190.000 Tel.: 2614536558</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/vendo-excelente-ubicacion-casa-antisismica-3-dormitorios-bano-ante-bano-cocina-completa-living-comedor-amplio-garage-para-3-autos-cochera-churrasquera-patio-ubicacion-a-30-mtos-de-plaza-de/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/vendo-excelente-ubicacion-casa-antisismica-3-dormitorios-bano-ante-bano-cocina-completa-living-comedor-amplio-garage-para-3-autos-cochera-churrasquera-patio-ubicacion-a-30-mtos-de-plaza-de/" rel="bookmark" title="VENDO EXCELENTE UBICACION. Casa antisísmica, 3 dormitorios. Baño. Ante baño Cocina completa. Living comedor. Amplio Garage para 3 autos. Cochera. Churrasquera. Patio. Ubicación a 30 mtos de plaza.  Destino familiar o comercial. Excelente estado Tel.: 153240009 VENDO EXCELENTE UBICACIÓN"><h3  class="post-23521">VENDO EXCELENTE UBICACION. Casa antisísmica, 3 dormitorios. Baño. Ante baño Cocina completa. Living comedor. Amplio Garage para 3 autos. Cochera. Churrasquera. Patio. Ubicación a 30 mtos de plaza.  Destino familiar o comercial. Excelente estado Tel.: 153240009 VENDO EXCELENTE UBICACIÓN</h3></a><hr></div></div></div></li><li><div
+class="seccion-2"><div
+class="titulo"><h2>Inmuebles</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/alquilo-casa-2-habitaciones-bano-cocina-comedor-todos-los-servicios-luz-gas-agua-tel-2613032659-4311725-tres-de-mayo-sobre-ruta-36-alquilo-2/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/alquilo-casa-2-habitaciones-bano-cocina-comedor-todos-los-servicios-luz-gas-agua-tel-2613032659-4311725-tres-de-mayo-sobre-ruta-36-alquilo-2/" rel="bookmark" title="ALQUILO casa. 2 habitaciones, baño, cocina comedor,  Todos los servicios, luz, gas, agua. Tel.: 2613032659 &#8211; 4311725 Tres de mayo &#8211; Sobre ruta 36 ALQUILO"><h3  class="post-23848">ALQUILO casa. 2 habitaciones, baño, cocina comedor,  Todos los servicios, luz, gas, agua. Tel.: 2613032659 &#8211; 4311725 Tres de mayo &#8211; Sobre ruta 36 ALQUILO</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/alquilo-salon-comercial-grande-en-pleno-centro-de-villa-tulumaya-a-una-cuadra-de-la-plaza-departamental-frente-de-blindex-piso-de-porcelanato-y-2-banos-tel-2615255458/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/22/alquilo-salon-comercial-grande-en-pleno-centro-de-villa-tulumaya-a-una-cuadra-de-la-plaza-departamental-frente-de-blindex-piso-de-porcelanato-y-2-banos-tel-2615255458/" rel="bookmark" title="ALQUILO Salón comercial grande en pleno centro de Villa Tulumaya, a  una cuadra de la plaza departamental. Frente de blindex, piso  de porcelanato y 2 baños. Tel.: 2615255458"><h3  class="post-23845">ALQUILO Salón comercial grande en pleno centro de Villa Tulumaya, a  una cuadra de la plaza departamental. Frente de blindex, piso  de porcelanato y 2 baños. Tel.: 2615255458</h3></a><hr></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-3/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/13/vendo-3/" rel="bookmark" title="VENDO Casa. 2 dormitorios. cocina comedor. Lavandería. Escritorio y garaje. En calle Villegas y calle pública. Tel.: 153240015."><h3  class="post-23672">VENDO Casa. 2 dormitorios. cocina comedor. Lavandería. Escritorio y garaje. En calle Villegas y calle pública. Tel.: 153240015.</h3></a><hr></div></div></div></li><li><div
+class="seccion-3"><div
+class="titulo"><h2>Servicios</h2></div><div
+class="contenido"><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/11/pollo-al-disco-sabado-11-08-4942018/"><img
+width="1920" height="1080" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault.jpg 1920w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-1024x576.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/maxresdefault-500x281.jpg 500w" sizes="(max-width: 1920px) 100vw, 1920px" /></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/11/pollo-al-disco-sabado-11-08-4942018/" rel="bookmark" title="Pollo al Disco! SABADO 11/08 &#8211; 4942018"><h3  class="post-23605">Pollo al Disco! SABADO 11/08 &#8211; 4942018</h3></a><hr></div></div><div
+class="img4">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/alquilo-salon-comercial-con-freezer-heladeras-vitrinas-estanterias-mostrador-exhibidores-de-golosinas-y-otros-accesorios-barrio-republica-del-peru-m-f-c10-tel-2616730777/"></a>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/alquilo-salon-comercial-con-freezer-heladeras-vitrinas-estanterias-mostrador-exhibidores-de-golosinas-y-otros-accesorios-barrio-republica-del-peru-m-f-c10-tel-2616730777/" rel="bookmark" title="ALQUILO Salón comercial con freezer, heladeras vitrinas; estanterías, mostrador, exhibidores de golosinas y otros accesorios. Barrio República del Perú M F C10 Tel.: 2616730777"><h3  class="post-23523">ALQUILO Salón comercial con freezer, heladeras vitrinas; estanterías, mostrador, exhibidores de golosinas y otros accesorios. Barrio República del Perú M F C10 Tel.: 2616730777</h3></a><hr></div></div></div></div></li></ul></div></div>
+<br><div
+class="blog-despertador"><div
+class="titulo-blog">
+<img
+src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/img/logo-BLOG.png" alt=""></div>
+<br><div
+class="contenido-blog"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/12/thesunvanished-el-hilo-de-twitter-mas-terrorifico-que-no-te-dejara-dormir/"><img
+width="770" height="420" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/TheSunVanished.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/TheSunVanished.jpg 770w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/TheSunVanished-450x245.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/TheSunVanished-768x419.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/TheSunVanished-500x273.jpg 500w" sizes="(max-width: 770px) 100vw, 770px" /></a>
+&nbsp;  &nbsp;<div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/12/thesunvanished-el-hilo-de-twitter-mas-terrorifico-que-no-te-dejara-dormir/" rel="bookmark" title="TheSunVanished: el hilo de Twitter más terrorífico que no te dejará dormir"><h1 class="post-23609">TheSunVanished: el hilo de Twitter más terrorífico que no te dejará dormir</h1></a><h1> &nbsp;  Por Aldo Martinez</h1></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/07/el-titular-del-diario-parecia-una-broma/"><img
+width="1023" height="670" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/sonrisatriste.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/sonrisatriste.jpg 1023w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/sonrisatriste-450x295.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/sonrisatriste-768x503.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/sonrisatriste-458x300.jpg 458w" sizes="(max-width: 1023px) 100vw, 1023px" /></a>
+&nbsp;  &nbsp;<div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/07/el-titular-del-diario-parecia-una-broma/" rel="bookmark" title="El titular del diario parecía una broma"><h1 class="post-23584">El titular del diario parecía una broma</h1></a><h1> &nbsp;  Por Aldo Martinez</h1></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/07/un-arbol-y-una-queja/"><img
+width="3120" height="4160" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/unnamed.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/unnamed.jpg 3120w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/unnamed-450x600.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/unnamed-768x1024.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/unnamed-225x300.jpg 225w" sizes="(max-width: 3120px) 100vw, 3120px" /></a>
+&nbsp;  &nbsp;<div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/07/un-arbol-y-una-queja/" rel="bookmark" title="Un Arbol y una Queja."><h1 class="post-23581">Un Arbol y una Queja.</h1></a><h1> &nbsp;  Por Aldo Martinez</h1></div></li></ul></div></div><br><div
+class="laregionhaceescuela"><div
+class="titulo-tecnologia" style="background-color:#666;color:white;"><h2>Tecnología</h2></div><div
+class="contenido-regionescuela"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/"><img
+width="2560" height="1440" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1.jpg 2560w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-1024x576.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/08/Sin-título-1-500x281.jpg 500w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/" rel="bookmark" title="MuVi &#8211; Música y Video"><h3 class="post-23536">MuVi &#8211; Música y Video</h3></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/08/05/muvi-musica-y-video/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/06/24/que-es-la-logica-y-para-que-nos-sirve/"><img
+width="1200" height="800" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/820-logical-and-creative-brain-hemispheres-1280x800-vector-wallpaper.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/820-logical-and-creative-brain-hemispheres-1280x800-vector-wallpaper.jpg 1200w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/820-logical-and-creative-brain-hemispheres-1280x800-vector-wallpaper-450x300.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/820-logical-and-creative-brain-hemispheres-1280x800-vector-wallpaper-768x512.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/820-logical-and-creative-brain-hemispheres-1280x800-vector-wallpaper-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/06/24/que-es-la-logica-y-para-que-nos-sirve/" rel="bookmark" title="¿Que es la lógica y para que nos sirve?"><h3 class="post-23120">¿Que es la lógica y para que nos sirve?</h3></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/06/24/que-es-la-logica-y-para-que-nos-sirve/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/06/24/que-es-la-logica-y-para-que-nos-sirve/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/06/15/radio-tierra-campesina-lanzo-su-app-para-smartphones/"><img
+width="1123" height="794" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc.jpg 1123w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc-450x318.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc-768x543.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc-1024x724.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/06/portada-app-rtc-424x300.jpg 424w" sizes="(max-width: 1123px) 100vw, 1123px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/06/15/radio-tierra-campesina-lanzo-su-app-para-smartphones/" rel="bookmark" title="Radio Tierra Campesina lanzó su App para smartphones"><h3 class="post-23032">Radio Tierra Campesina lanzó su App para smartphones</h3></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/06/15/radio-tierra-campesina-lanzo-su-app-para-smartphones/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/06/15/radio-tierra-campesina-lanzo-su-app-para-smartphones/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/05/31/top-5-aplicaciones-muy-utiles/"><img
+width="1024" height="470" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L.jpg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L-450x207.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L-768x352.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L-500x229.jpg 500w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/05/xglajumedia-fondo-desarrollo-aplicaciones.jpg.pagespeed.ic_.3QHYNx9u7L-1320x606.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/05/31/top-5-aplicaciones-muy-utiles/" rel="bookmark" title="1Top 5 Aplicaciones muy utiles!"><h3 class="post-22768">1Top 5 Aplicaciones muy utiles!</h3></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/05/31/top-5-aplicaciones-muy-utiles/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/05/31/top-5-aplicaciones-muy-utiles/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li></ul></div></div><div
+class="laregionhaceescuela"><div
+class="titulo-tecnologia" style="background-color:#fcb501;color:white;"><h2>De viaje por el mundo</h2></div><div
+class="contenido-regionescuela"><ul><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/fotos-descubren-un-tunel-y-una-camara-secreta-en-la-piramide-de-la-luna-en-teotihuacan/"><img
+width="824" height="464" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/teotihucan.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/teotihucan.jpg 824w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/teotihucan-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/teotihucan-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/teotihucan-500x282.jpg 500w" sizes="(max-width: 824px) 100vw, 824px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/fotos-descubren-un-tunel-y-una-camara-secreta-en-la-piramide-de-la-luna-en-teotihuacan/" rel="bookmark" title="FOTOS: Descubren un túnel y una cámara secreta en la Pirámide de la Luna en Teotihuacán"><h2  class="post-24499">FOTOS: Descubren un túnel y una cámara secreta en la Pirámide de la Luna en Teotihuacán</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/fotos-descubren-un-tunel-y-una-camara-secreta-en-la-piramide-de-la-luna-en-teotihuacan/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/fotos-descubren-un-tunel-y-una-camara-secreta-en-la-piramide-de-la-luna-en-teotihuacan/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/descubren-como-los-antiguos-egipcios-movian-las-enormes-piedras-con-las-que-hicieron-las-piramides/"><img
+width="824" height="464" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/pirámides.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/pirámides.jpg 824w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/pirámides-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/pirámides-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/11/pirámides-500x282.jpg 500w" sizes="(max-width: 824px) 100vw, 824px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/11/04/descubren-como-los-antiguos-egipcios-movian-las-enormes-piedras-con-las-que-hicieron-las-piramides/" rel="bookmark" title="Descubren cómo los antiguos egipcios movían las enormes piedras con las que hicieron las pirámides"><h2  class="post-24496">Descubren cómo los antiguos egipcios movían las enormes piedras con las que hicieron las pirámides</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/11/04/descubren-como-los-antiguos-egipcios-movian-las-enormes-piedras-con-las-que-hicieron-las-piramides/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/11/04/descubren-como-los-antiguos-egipcios-movian-las-enormes-piedras-con-las-que-hicieron-las-piramides/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/09/29/tsunami-impacta-la-isla-indonesia-de-celebes/"><img
+width="1214" height="697" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai.jpeg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai.jpeg 1214w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai-450x258.jpeg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai-768x441.jpeg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai-1024x588.jpeg 1024w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/tsunai-500x287.jpeg 500w" sizes="(max-width: 1214px) 100vw, 1214px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/09/29/tsunami-impacta-la-isla-indonesia-de-celebes/" rel="bookmark" title="Tsunami impacta la isla indonesia de Célebes"><h2  class="post-24209">Tsunami impacta la isla indonesia de Célebes</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/09/29/tsunami-impacta-la-isla-indonesia-de-celebes/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/09/29/tsunami-impacta-la-isla-indonesia-de-celebes/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li><li>
+<a
+href="http://despertadorlavalle.com.ar/2018/09/03/dos-paises-petroleros-deciden-abstenerse-de-usar-el-dolar-de-ee-uu-en-sus-tratos-comerciales/"><img
+width="824" height="464" src="http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/5b8bd98d08f3d93b408b456d.jpg" class="img-fluid wp-post-image" alt="" srcset="http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/5b8bd98d08f3d93b408b456d.jpg 824w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/5b8bd98d08f3d93b408b456d-450x253.jpg 450w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/5b8bd98d08f3d93b408b456d-768x432.jpg 768w, http://despertadorlavalle.com.ar/wp-content/uploads/2018/09/5b8bd98d08f3d93b408b456d-500x282.jpg 500w" sizes="(max-width: 824px) 100vw, 824px" /></a><div
+class="texto">
+<a
+href="http://despertadorlavalle.com.ar/2018/09/03/dos-paises-petroleros-deciden-abstenerse-de-usar-el-dolar-de-ee-uu-en-sus-tratos-comerciales/" rel="bookmark" title="Dos países petroleros deciden abstenerse de usar el dólar de EE.UU. en sus tratos comerciales"><h2  class="post-23929">Dos países petroleros deciden abstenerse de usar el dólar de EE.UU. en sus tratos comerciales</h2></a><div
+class="sociales">
+<a
+href="http://www.twitter.com/home?status=http://despertadorlavalle.com.ar/2018/09/03/dos-paises-petroleros-deciden-abstenerse-de-usar-el-dolar-de-ee-uu-en-sus-tratos-comerciales/" target="_blank"><i
+class="fa fa-twitter"></i></a>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=http://despertadorlavalle.com.ar/2018/09/03/dos-paises-petroleros-deciden-abstenerse-de-usar-el-dolar-de-ee-uu-en-sus-tratos-comerciales/" target="_blank"><i
+class="fa fa-facebook"></i></a></div></div></li></ul></div></div>
+<br><div
+class="decima-seccion"><div
+class="titulo-decima"><h2>Youtube</h2></div><div
+class="youtube-channel"><h2>Videos del Momento</h2><ul><li><iframe
+width="680" height="615" src="https://www.youtube.com/embed/AASJaov92zA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><iframe
+width="680" height="615" src="https://www.youtube.com/embed/nGNQ3YsC6E4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li></ul></div><div
+class="youtube-channel2"><ul><li><iframe
+width="280" height="245" src="https://www.youtube.com/embed/v0Oyr0GGg84?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><iframe
+width="280" height="245" src="https://www.youtube.com/embed/hAXweskDZlM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><iframe
+width="280" height="245" src="https://www.youtube.com/embed/OFbYxaG0TCw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><iframe
+width="280" height="245" src="https://www.youtube.com/embed/AmppYhKmTsI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><iframe
+width="280" height="245" src="https://www.youtube.com/embed/AG5LmY6Rn-E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li></ul></div></div>
+<br><div
+class="seccion-facebook" ><div
+class="titulo-facebook" ><h1>Facebook</h1></div><div
+class="videos"><div
+class="fb-video" data-href="https://www.facebook.com/radiotierracampesina/videos/1006191452873770/"><div
+class="fb-xfbml-parse-ignore"><blockquote
+cite="https://www.facebook.com/radiotierracampesina/videos/1006191452873770/"></blockquote></div></div></div>
+<br></div><div
+class="container-seccion9" style=" align-content:center;text-align:center;" id="newsletter"><div
+class="titulo-edicion"><h1>Newsletter</h1></div><h1 style="color:white;">Boletin de Noticias en tu Email</h1><p
+style="color:white;">Recibí todas las noticias de nuestra pagina semanalmente en tu correo</p><h3 style="color:white;">Ingresá tu correo electronico aca:</h3><form
+method="POST" action="../../subidas/newsletter.php"><div
+class="container"><div
+class="input-group">
+<span
+class="input-group-addon" id="basic-addon1" style="color:white;">Nombre</span>
+<input
+type="text" name="nombre" class="form-control" placeholder="Nombre..." aria-describedby="basic-addon1"></div>
+<br><div
+class="input-group">
+<span
+class="input-group-addon" id="basic-addon1" style="color:white;">Email</span>
+<input
+type="text" name="correo" class="form-control" placeholder="Email..." aria-describedby="basic-addon1"></div></div><hr>
+<input
+type="submit"  name="Subcribirme" class="btn btn-default dropdown-toggle" value="Subcribirme"><hr></form></div><div
+class="container-seccion9"><div
+class="titulo-edicion"><h1>Edición Impresa</h1></div><div
+class="contenido-edicion">
+<a
+href="http://despertadorlavalle.com.ar/subidas/4 de noviembre de 2018 5 a 8 web.pdf"><img
+src="http://despertadorlavalle.com.ar/subidas/05-11-2018.jpg" ></a><a
+href="http://despertadorlavalle.com.ar/subidas/4 de noviembre de 2018 1 a 4 web.pdf"><img
+src="http://despertadorlavalle.com.ar/subidas/04-11-2018.jpg" ></a><a
+href="http://despertadorlavalle.com.ar/subidas/14 de octubre de 2018 ENTERO FINAL.pdf"><img
+src="http://despertadorlavalle.com.ar/subidas/13-10-2018.jpg" ></a></div></div><footer
+class="footer-distributed"><div
+class="footer-left"><img
+width="200px" src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/img/bannernuevo.png" alt="Despertador Online" ><p
+class="footer-links">
+<a
+href="www.despertadorlavalle.com.ar">Inicio</a>
+·
+<a
+href="http://despertadorlavalle.com.ar/category/titulares/">Titulares</a>
+·
+<a
+href="http://despertadorlavalle.com.ar/category/radio/">FM 89.1</a>
+·
+<a
+href="http://despertadorlavalle.com.ar/category/servicios/">Servicios</a>
+·
+<a
+href="#">Publicidad</a>
+·
+<a
+href="#">Contacto</a></p><div
+class="datos-contacto" style="color:white;"><p><i
+class="fa fa-map-pin"></i> Domicilio: Bolivar 47</p><p><i
+class="fa fa-phone"></i> Teléfono (Argentina) : +54 0261 494 1850</p><p><i
+class="fa fa-envelope"></i> E-mail : eldespertador2002@gmail.com</p><p
+class="footer-company-name">Periodico el Despertador &copy; 2018</p></div><div
+class="footer-icons"><a
+href="#"><i
+class="fa fa-facebook"></i></a>
+<a
+href="#"><i
+class="fa fa-twitter"></i></a>
+<a
+href="#"><i
+class="fa fa-linkedin"></i></a>
+<a
+href="#"><i
+class="fa fa-github"></i></a></div></div><div
+class="footer-right"><p>Dejanos tu mensaje</p><form
+action="mailto:eldespertador2002@gmail.com" method="post"><input
+type="text" name="email" placeholder="Email" /><textarea name="message" placeholder="Mensaje"></textarea><button>Enviar</button></form></div></footer>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113891225-1"></script> <script>window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-113891225-1');</script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/bootstrap.min.js"></script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/mdb.min.js"></script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/jquery-3.2.1.min.js"></script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/main.js"></script> <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script> <script src='https://cdn.rawgit.com/monkeecreate/jquery.simpleWeather/master/jquery.simpleWeather.min.js'></script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/clima.js"></script> <script src="http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/clima2.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script> <!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/clima.js" type="text/javascript"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/main.js" type="text/javascript"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/jquery-3.2.1.min.js" type="text/javascript"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/bootstrap.min.js" type="text/javascript"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/mdb.min.js" type="text/javascript"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="/http://despertadorlavalle.com.ar/wp-content/themes/miracleone5/js/clima2.js" type="text/javascript"></script> <![endif]--></body></html>

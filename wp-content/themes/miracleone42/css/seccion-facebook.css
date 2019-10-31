@@ -1,0 +1,11 @@
+.seccion-facebook{
+    width: 90%;
+    margin: auto;
+    word-wrap: break-word;
+    overflow: hidden;
+    color: white;
+}
+
+.titulo-facebook{
+    background-color: #3b5998;
+}

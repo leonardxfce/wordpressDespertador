@@ -1,0 +1,24 @@
+.seccion-juego{
+    width: 90%;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+
+.titulo-juego{
+    width: 100%;
+    background-color: brown;
+    color: white;
+}
+
+.contenido-juego{
+    width: 80%;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+}
+
+.contenido-juego iframe{
+    width: 100%;
+    height: 500px;
+}
