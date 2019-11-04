@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Subida de Archivos</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css?v=6">
+</head>
+<body>
+	<header class="cabecera">
+		<a href="www.despertadorlavalle.com.ar"><img src="https://image.ibb.co/ccMhAn/bannernuevo.jpg"></a>		
+	</header>
+	<nav class="sidenav">
+		<ul class="acciones">
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/publicidades.html">Publicidades</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/audios.html">Audios</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/youtube-loader.html">Videos</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/facebook-loader.html">Videos Facebook</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/periodico.html">PDF</a></li>
+		</ul>
+	</nav>
+	<div class="contenido">
+		<h1>Subir Video</h1>
+		<form method="POST" action="subir.php">
+			<h2>1- Copie y Pegue el link del video de Facebook (Ejemplo: https://www.facebook.com/fitcerocalorias/videos/816251338582158/)</h2>
+			<input type="text" name="video-url" id="video-url" onchange="cambiarThumb()">
+			<h2>2- Ingrese la posicion del nuevo video</h2>
+			<input type="text" name="posicion">
+			<h2>3- Ingrese el nombre del video</h2>
+			<input type="text" name="titulo" />
+			<input type="submit" value="Enviar" >
+		</form>
+		<br>
+	
+        
+				<br>
+		<img src="default.png" id="video_1">
+		<script type="text/javascript">
+			function cambiarThumb() {
+				var url= document.getElementById('video-url').value;
+				var codeyt= url.substr(-11);
+				var urlcomplete="https://i.ytimg.com/vi/"+codeyt+"/hqdefault.jpg";
+				document.getElementById("video_1").src =urlcomplete;
+			};
+		</script>
+	</div>
+	<footer class="pie">
+		<p>Panel de Adminstracion - Despertador Lavalle - Aldo Martinez</p>
+	</footer>
+</body>

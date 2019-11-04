@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Subida de Archivos</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css?v=6">
+</head>
+<body>
+	<header class="cabecera">
+		<a href="www.despertadorlavalle.com.ar"><img src="https://image.ibb.co/ccMhAn/bannernuevo.jpg"></a>		
+	</header>
+	<nav class="sidenav">
+		<ul class="acciones">
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/publicidades.html">Publicidades</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/audios.html">Audios</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/youtube-loader.html">Videos</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/facebook-loader.html">Videos Facebook</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/periodico.html">PDF</a></li>
+		</ul>
+	</nav>
+	<div class="contenido">
+		<h1>Cambiar Imagenes de Publicitarias</h1>
+		<div id="formulario">
+			<form action="subir.php" method="post" enctype="multipart/form-data">
+				<h2>1- Seleccionar Imagen:</h2>
+				<h6>Solo se admite formato .jpg</h6>
+				<input type="file" name="filen" >
+				<h2>2- Escribir la descripcion de la imagen</h2>
+				<input type="text" name="descripcion">
+				<h2>3- ¿Que imagen desea reemplazar?</h2>
+				<input type="text" name="posicion">
+				<h2>4 -¿Tiene link a pagina o facebook? Ej:(https://www.facebook.com/PeriodicoElDespertador/)</h2>
+				<input type="text" name="url">
+				<input type="submit" name="submit">
+			</form>
+		</div>
+	</div>
+	<footer class="pie">
+		<p>Panel de Adminstracion - Despertador Lavalle - Leonardo Araoz</p>
+	</footer>
+</body>
+</html>

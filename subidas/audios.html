@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Subida de Archivos</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css?v=6">
+</head>
+<body>
+	<header class="cabecera">
+		<img src="https://image.ibb.co/ccMhAn/bannernuevo.jpg">		
+	</header>
+	<nav class="sidenav">
+		<ul class="acciones">
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/publicidades.html">Publicidades</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/audios.html">Audios</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/youtube-loader.html">Videos</a></li>
+			<li class="doblecentrado"><a href="http://despertadorlavalle.com.ar/subidas/periodico.html">PDF</a></li>
+		</ul>
+	</nav>
+	<div class="contenido">
+	<h1>Cambiar Audios</h1>
+		<form action="subir.php" method="post" enctype="multipart/form-data">
+			<h2>1- Seleecionar el Audio para subir</h2>
+			<h6>Solo se admiten formato .mp3</h6>
+			<input type="file" name="filen">
+			<h2>2- Completar los datos</h2>
+			<input type="text" name="titulo" placeholder="Titulo">
+			<input type="text" name="autor" placeholder="Autor">
+			<input type="submit" name="submit" >
+			<h6>IMPORTANTE LOS ARCHIVOS NO DEBEN SUPERAR LOS 50 MB</h6>
+		</form>
+
+	</div>
+	<footer class="pie">
+		<p>Panel de Adminstracion - Despertador Lavalle - Leonardo Araoz</p>
+	</footer>
+</body>
+</html>

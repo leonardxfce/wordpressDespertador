@@ -32,10 +32,3 @@
         </div>
     </div>
 </div>
-
-<div class="publicidad-grande2">
-    <div class="contenido-publicitario">
-        <a href="https://twitter.com/afernandezk" target="_blank"><img
-                src="https://i.ibb.co/MNkZzT9/BANNER-LAVALLE-1200-X400-PX.png" alt=""></a>
-    </div>
-</div>

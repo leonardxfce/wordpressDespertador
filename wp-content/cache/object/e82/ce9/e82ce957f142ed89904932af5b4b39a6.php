@@ -1,1 +1,0 @@
-ä¯ã[<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1457557895:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:13:"_thumbnail_id";a:1:{i:0;s:5:"13611";}s:30:"_is_empty_after_transformation";a:1:{i:0;s:2:"no";}s:34:"_has_warnings_after_transformation";a:1:{i:0;s:2:"no";}}}

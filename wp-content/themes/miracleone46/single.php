@@ -12,23 +12,21 @@
 
         <?php
 
-            foreach((get_the_category()) as $category) { 
-
-                echo '<h2 id="category" style="color:rgb(28, 95, 184);"> ' .$category->cat_name . '</h2> '; 
-
-            } 
+            foreach ((get_the_category()) as $category) {
+                echo '<h2 id="category" style="color:rgb(28, 95, 184);"> ' .$category->cat_name . '</h2> ';
+            }
 
         ?>
 
         <hr>
 
-        <?php 
+        <?php
 
         while (have_posts()) : the_post(); ?>
 
         <h3 style="color:rgb(26, 12, 1);"><?php echo get_the_date();  ?></h3>
 
-        <?php endwhile; ?> 
+        <?php endwhile; ?>
 
     </div>
 
@@ -44,87 +42,97 @@
 
         </div>
 
-        <?php if(has_post_thumbnail()){the_post_thumbnail('post-thumnails', array('class' => ''));}?>
+        <?php if (has_post_thumbnail()) {
+            the_post_thumbnail('post-thumnails', array('class' => ''));
+        }?>
 
         <div class="author-single">
 
-        <ul>
+            <ul>
 
-            <li class="image-author"><?php  author_get(); ?></li>
+                <li class="image-author"><?php  author_get(); ?></li>
 
-            <li>
+                <li>
 
-                <?php while (have_posts()) : the_post(); ?>
+                    <?php while (have_posts()) : the_post(); ?>
 
-                    <h3> &nbsp;  Por <?php the_author();?> </h3>
+                    <h3> &nbsp; Por <?php the_author();?> </h3>
 
-                <?php endwhile; // end of the loop.?>
+                    <?php endwhile; // end of the loop.?>
 
-            </li>
+                </li>
 
 
 
-            
 
-        </ul>
+
+            </ul>
 
         </div>
 
-        
+
 
     </div>
 
     <div class="single-2">
 
-        <div class="sociales-single" >
+        <div class="sociales-single">
 
-            <a href="http://www.twitter.com/home?status=<?php the_permalink() ?>" target="_blank"><i class="fa fa-twitter"></i></a> &nbsp;&nbsp;
+            <a href="http://www.twitter.com/home?status=<?php the_permalink() ?>" target="_blank"><i
+                    class="fa fa-twitter"></i></a> &nbsp;&nbsp;
 
-            <a href="https://www.facebook.com/dialog/?app_id=28218816837&channel_url=<?php the_permalink() ?>" target="_blank"><i class="fa fa-facebook"></i></a> &nbsp;&nbsp;
+            <a href="https://www.facebook.com/dialog/?app_id=28218816837&channel_url=<?php the_permalink() ?>"
+                target="_blank"><i class="fa fa-facebook"></i></a> &nbsp;&nbsp;
 
-            <a href="whatsapp://send?text=<?php echo get_permalink(); ?>" target="_blank" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a> &nbsp;&nbsp;
+            <a href="whatsapp://send?text=<?php echo get_permalink(); ?>" target="_blank"
+                data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a> &nbsp;&nbsp;
 
-            <a href="mailto:?subject=<?php the_permalink() ?>" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a> &nbsp;&nbsp;
+            <a href="mailto:?subject=<?php the_permalink() ?>" target="_blank"><i class="fa fa-envelope"
+                    aria-hidden="true"></i></a> &nbsp;&nbsp;
 
-        </div> 
+        </div>
 
         <div id="fb-root"></div>
 
-            <script>(function(d, s, id) {
+        <script>
+        (function(d, s, id) {
 
             var js, fjs = d.getElementsByTagName(s)[0];
 
             if (d.getElementById(id)) return;
 
-            js = d.createElement(s); js.id = id;
+            js = d.createElement(s);
+            js.id = id;
 
-            js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.1&appId=173602370082253&autoLogAppEvents=1';
+            js.src =
+                'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.1&appId=173602370082253&autoLogAppEvents=1';
 
             fjs.parentNode.insertBefore(js, fjs);
 
-            }(document, 'script', 'facebook-jssdk'));</script>
+        }(document, 'script', 'facebook-jssdk'));
+        </script>
 
     </div>
 
     <!--Nota de contenido -->
 
-   <div class="contedor-noticiaypublicidad">
+    <div class="contedor-noticiaypublicidad">
 
         <div class="single-3">
 
             <?php if (have_posts()) : ?>
 
-                <?php while (have_posts()) : the_post(); ?>
+            <?php while (have_posts()) : the_post(); ?>
 
-                    <div >
-                    
-                        <?php the_content(); ?>
-                        
-                        
+            <div>
 
-                    </div>
+                <?php the_content(); ?>
 
-                <?php endwhile; ?>
+
+
+            </div>
+
+            <?php endwhile; ?>
 
             <?php endif; ?>
 
@@ -135,22 +143,18 @@
         <div class="publicidad-costado">
 
             <ul>
-
-                <li><a href="https://www.facebook.com/RRighii//"><img src="https://i.ibb.co/6tFjR6g/Dise-o.png" alt=""></a></li>
-
-                <li><a href="https://twitter.com/afernandezk"><img src="https://i.ibb.co/9wdNLZX/anabel-cfk.jpg" alt=""></a></li>
-
-                <li><a href="https://www.triunfoseguros.co/"><img src="https://preview.ibb.co/fW6hPq/el-despertador-urbano.jpg" alt=""></a></li>
+                <li><a href="https://www.triunfoseguros.co/"><img
+                            src="https://preview.ibb.co/fW6hPq/el-despertador-urbano.jpg" alt=""></a></li>
 
             </ul>
 
         </div>
 
-   </div>
+    </div>
 
 
 
-    
+
 
     <div class="publicidad-titulo">
 
@@ -160,13 +164,13 @@
 
         </div>
 
-    
+
 
     </div>
 
-    
 
-        
+
+
 
 
 
@@ -174,11 +178,12 @@
 
         <h2>Comentarios</h2>
 
-        <div class="fb-comments"data-width="100%"  data-href="<?php echo get_the_permalink(); ?>" data-numposts="10" data-colorscheme="light"></div>
+        <div class="fb-comments" data-width="100%" data-href="<?php echo get_the_permalink(); ?>" data-numposts="10"
+            data-colorscheme="light"></div>
 
     </div>
 
-   
+
 
 </div>
 
@@ -207,14 +212,12 @@
                 $recent_posts = wp_get_recent_posts($args);
 
                     foreach ($recent_posts as $recent) {
-
                         echo '<li>'.'<a href="' . get_permalink($recent["ID"]) . '">' . get_the_post_thumbnail($recent["ID"], '');
 
                         echo '<p>'.$recent["post_title"].' </p> </a> ';
 
                         echo '<p>'.$recent["the_excerpt"].' </p></li> ';
-
-                    }       
+                    }
 
             ?>
 
@@ -232,15 +235,15 @@
 
 
 
-    <!--Fin aside -->
+<!--Fin aside -->
 
 
 
-    <!-- Comentarios de facebook -->
+<!-- Comentarios de facebook -->
 
-    <div id="fb-root"></div>
+<div id="fb-root"></div>
 
-   
+
 
 </div>
 
@@ -251,4 +254,3 @@
 
 
 <?php get_footer();?>
-

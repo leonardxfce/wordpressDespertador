@@ -1,1 +1,0 @@
-o¯ã[<?php exit; ?>a:1:{s:7:"content";s:208:"s:199:"a:10:{s:11:"networkwide";b:0;s:4:"auto";s:1:"1";s:5:"lossy";s:1:"0";s:8:"original";b:0;s:9:"keep_exif";b:0;s:6:"resize";b:0;s:6:"backup";s:1:"0";s:10:"png_to_jpg";b:0;s:7:"nextgen";b:0;s:2:"s3";b:0;}";";}
