@@ -36,9 +36,6 @@
 
     <?php endwhile; ?>
     <div class="primera-3">
-        <a target="_blank"
-            href="https://www.facebook.com/Biblioteca-Popular-el-Bosque-de-los-Libros-600763516659065/?ref=br_rs"><img
-                src="https://i.ibb.co/h8VhMj5/subir.jpg" alt="gu-a-comercial" border="0"></a>
     </div>
 </div>
 <div class="publicidad-grande2">
