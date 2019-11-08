@@ -135,6 +135,11 @@
         <div class="publicidad-costado">
 
             <ul>
+
+                <li><a href="https://www.facebook.com/RRighii//"><img src="https://i.ibb.co/6tFjR6g/Dise-o.png" alt=""></a></li>
+
+                <li><a href="https://twitter.com/afernandezk"><img src="https://i.ibb.co/9wdNLZX/anabel-cfk.jpg" alt=""></a></li>
+
                 <li><a href="https://www.triunfoseguros.co/"><img src="https://preview.ibb.co/fW6hPq/el-despertador-urbano.jpg" alt=""></a></li>
 
             </ul>
